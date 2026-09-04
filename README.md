@@ -36,3 +36,7 @@ HOP is what makes **Observe** a protocol, not an accident.
 `v0 — sketching`
 
 This folder is the home for HOP drafts, schema proposals, and implementations.
+
+## License
+
+[Apache-2.0](./LICENSE) — open protocol, explicit patent grant, so implementations can build on HOP freely.
